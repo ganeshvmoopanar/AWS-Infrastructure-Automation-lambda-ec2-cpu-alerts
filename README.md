@@ -45,7 +45,5 @@ The Lambda function monitors CPU utilization of EC2 instances and triggers alert
 - Monitor alerts sent via SNS for any CPU spikes in your EC2 instances.
 
 ## Notes
-
-- Customize the scripts and Lambda function code as needed to suit your specific requirements.
 - Ensure proper IAM permissions are assigned to Lambda functions and other AWS resources.
 
